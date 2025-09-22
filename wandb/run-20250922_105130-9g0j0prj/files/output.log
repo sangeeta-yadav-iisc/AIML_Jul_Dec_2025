@@ -1,0 +1,19 @@
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-labels-idx1-ubyte.gz
+29515/29515 [==============================] - 0s 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-images-idx3-ubyte.gz
+26421880/26421880 [==============================] - 3s 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/t10k-labels-idx1-ubyte.gz
+5148/5148 [==============================] - 0s 0us/step
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/t10k-images-idx3-ubyte.gz
+4422102/4422102 [==============================] - 0s 0us/step
+Epoch 1/10 | Train Loss: 2.3814, Train Acc: 0.1316 | Val Loss: 2.3577, Val Acc: 0.1366
+Epoch 2/10 | Train Loss: 2.3295, Train Acc: 0.1601 | Val Loss: 2.3084, Val Acc: 0.1702
+Epoch 3/10 | Train Loss: 2.2842, Train Acc: 0.1972 | Val Loss: 2.2648, Val Acc: 0.2056
+Epoch 4/10 | Train Loss: 2.2438, Train Acc: 0.2344 | Val Loss: 2.2255, Val Acc: 0.2438
+Epoch 5/10 | Train Loss: 2.2069, Train Acc: 0.2675 | Val Loss: 2.1894, Val Acc: 0.2762
+Epoch 6/10 | Train Loss: 2.1729, Train Acc: 0.2928 | Val Loss: 2.1558, Val Acc: 0.3002
+Epoch 7/10 | Train Loss: 2.1410, Train Acc: 0.3117 | Val Loss: 2.1244, Val Acc: 0.3179
+Epoch 8/10 | Train Loss: 2.1111, Train Acc: 0.3273 | Val Loss: 2.0947, Val Acc: 0.3320
+Epoch 9/10 | Train Loss: 2.0827, Train Acc: 0.3416 | Val Loss: 2.0664, Val Acc: 0.3459
+Epoch 10/10 | Train Loss: 2.0556, Train Acc: 0.3546 | Val Loss: 2.0396, Val Acc: 0.3593
+Test Loss: 2.0441, Test Accuracy: 0.3594

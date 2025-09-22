@@ -1,0 +1,72 @@
+_wandb:
+    value:
+        cli_version: 0.22.0
+        e:
+            494a3lzm2j6nw79cb29ov908jl099kzb:
+                args:
+                    - --wandb_entity
+                    - myusername
+                    - --wandb_project
+                    - AIML_JUL_DEC_2025
+                codePath: train.py
+                codePathLocal: train.py
+                email: sangeeta@fot.du.ac.in
+                executable: /Library/Frameworks/Python.framework/Versions/3.11/bin/python3
+                git:
+                    commit: 1f242c828f59d10b030a66498824aa012c29dbaf
+                    remote: https://github.com/sangeeta-yadav-iisc/AIML_Jul_Dec_2025.git
+                host: Sangeetas-MacBook-Air.local
+                os: macOS-13.5-arm64-arm-64bit
+                program: /Users/sangeetayadav/Desktop/AIML_Jul_Dec_2025/train.py
+                python: CPython 3.11.4
+                root: /Users/sangeetayadav/Desktop/AIML_Jul_Dec_2025
+                startedAt: "2025-09-22T05:19:10.196604Z"
+                writerId: 494a3lzm2j6nw79cb29ov908jl099kzb
+        m: []
+        python_version: 3.11.4
+        t:
+            "1":
+                - 2
+                - 3
+            "2":
+                - 2
+                - 3
+            "3":
+                - 2
+                - 16
+            "4": 3.11.4
+            "5": 0.22.0
+            "12": 0.22.0
+            "13": darwin-arm64
+activation:
+    value: ReLU
+batch_size:
+    value: 64
+beta1:
+    value: 0.9
+beta2:
+    value: 0.999
+dataset:
+    value: fashion_mnist
+epochs:
+    value: 10
+epsilon:
+    value: 1e-08
+hidden_size:
+    value: 128
+learning_rate:
+    value: 0.001
+loss:
+    value: cross_entropy
+momentum:
+    value: 0.9
+num_layers:
+    value: 2
+optimizer:
+    value: sgd
+wandb_entity:
+    value: myusername
+wandb_project:
+    value: AIML_JUL_DEC_2025
+weight_decay:
+    value: 0
