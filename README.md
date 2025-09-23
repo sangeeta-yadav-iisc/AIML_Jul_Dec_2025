@@ -12,7 +12,7 @@
 
 ### Usage
 ```bash
-python train.py --wandb_entity yourname --wandb_project cs6910_a1 \
+python train.py --wandb_entity yourname --wandb_project AIML_Jul_Dec_2025 \
   --dataset fashion_mnist --epochs 10 --batch_size 64 \
   --optimizer adam --learning_rate 0.001 --num_layers 3 \
   --hidden_size 128 --activation ReLU
